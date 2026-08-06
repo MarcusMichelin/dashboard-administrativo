@@ -22,10 +22,12 @@ Desenvolvido para o hackathon de seleção da **Seazone**.
 **Acesse agora:** [https://seazone-dashboard.vercel.app/](https://seazone-dashboard.vercel.app/)
 
 **Teste com:**
-- Email: `teste@gmail.com`
-- Senha: `Senha123!`
+- Email: `teste@seazone.com`
+- Senha: `teste123`
 
-(ou crie sua própria conta)
+Já vem com 4 imóveis de exemplo pré-configurados!
+
+**Ou crie sua própria conta** clicando em "Crie uma".
 
 ---
 
