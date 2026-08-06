@@ -17,3 +17,5 @@ yarn-error.log*
 .idea
 *.swp
 *.swo
+.env.local
+.env.*.local
