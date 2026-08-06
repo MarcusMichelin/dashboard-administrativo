@@ -1,3 +1,14 @@
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-14.0-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue?style=flat-square&logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind-3.3-38B2AC?style=flat-square&logo=tailwind-css)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-green?style=flat-square&logo=supabase)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+</div>
+
 # 🏠 Seazone Dashboard - Gerenciamento de Imóveis
 
 Um **dashboard profissional** para proprietários gerenciarem suas propriedades de temporada em tempo real.
