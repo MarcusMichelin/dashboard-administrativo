@@ -164,7 +164,7 @@ export default function Dashboard() {
         {/* Footer */}
         <div className="mt-12 pt-8 border-t border-gray-200">
           <p className="text-center text-gray-600 text-sm">
-            © 2024 Marcus Michelin. Todos os direitos reservados.
+            © 2026 Marcus Michelin. Todos os direitos reservados.
           </p>
         </div>
       </main>
