@@ -9,7 +9,7 @@
 
 </div>
 
-# 🏠 Seazone Dashboard - Gerenciamento de Imóveis
+# 🏠 Dashboard administrativo - Gerenciamento de Imóveis
 
 Um **dashboard profissional** para proprietários gerenciarem suas propriedades de temporada em tempo real.
 
